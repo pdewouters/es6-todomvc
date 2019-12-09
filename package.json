@@ -17,7 +17,7 @@
     "css-loader": "0.23.1",
     "eslint": "2.13.0",
     "eslint-config-kentcdodds": "6.2.1",
-    "eslint-import-resolver-webpack": "0.3.0",
+    "eslint-import-resolver-webpack": "0.12.0",
     "eslint-loader": "1.3.0",
     "eslint-plugin-import": "1.8.1",
     "ghooks": "1.2.4",
